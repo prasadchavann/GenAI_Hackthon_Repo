@@ -18,7 +18,7 @@ Career Counselling Mentor is an AI-driven career counseling platform specificall
 ## Screenshots 📸
 
 ### Landing Page for Custom GPT
-<img src="https://res.cloudinary.com/dti5em2nu/image/upload/v1738952720/kf4tnxsyl6mdfhm1ak5t.jpg"/>
+<img src="https://res.cloudinary.com/dti5em2nu/image/upload/v1738952827/fruunnccsedhmleg21db.jpg"/>
 
 
 ### AI Career Suggestions
