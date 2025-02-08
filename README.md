@@ -7,12 +7,19 @@ Career Counselling Mentor is an AI-driven career counseling platform specificall
 ## Features 🔥
 
 ✅ **AI-Driven Career Counseling** - Get personalized guidance based on your interests and skills.
+
 ✅ **Interest-Based Analysis** - The AI suggests careers and learning paths based on user inputs.
+
 ✅ **Local Job & Opportunity Finder** - Discover job opportunities and career options in your area.
+
 ✅ **Multilingual Support** - Communicate with the AI in any language for accessibility.
+
 ✅ **Personalized Study Plans** - Get curated roadmaps and learning paths for your career goals.
+
 ✅ **Voice-Based Chatbot (In Development)** - Speak to the AI instead of typing.
+
 ✅ **Web Search for Best Courses** - Find top courses and learning resources tailored to your needs.
+
 ✅ **YouTube & Video Recommendations** - Get video-based learning suggestions for better understanding.
 
 ## Screenshots 📸
